@@ -1,0 +1,10 @@
+.git
+.vscode
+.DS_Store
+node_modules/
+dist/
+npm-debug.log
+npm-debug.log.*
+package-lock.json
+thumbs.db
+!.gitkeep
