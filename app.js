@@ -1,5 +1,5 @@
-const app = require('./src/server');
+const app = require('./src/config/server');
 
-app.listen(3000, function(){
+app.listen(3333, function(){
     console.log('servidor On...');
 });

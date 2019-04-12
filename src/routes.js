@@ -1,5 +1,6 @@
 module.exports = function(app){
-    app.get('/', function(req, res){
-        res.send('Ola Mundo');
-    });
+
+    const BoxController = require('./controller/BoxController');
+
+    app.post('/boxes', BoxController.store);
 }
