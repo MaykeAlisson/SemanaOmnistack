@@ -1,0 +1,118 @@
+git config --global user.name "maykefurtado"
+git config --global user.email maykefurtado@landix.com.br
+
+*** FLX
+
+git clone -b develop http://gitlab.fw.landix.com.br/vrt/flx/ssm.git
+git clone -b develop http://gitlab.fw.landix.com.br/vrt/flx/ldxproc.git
+git clone -b develop http://gitlab.fw.landix.com.br/vrt/flx/script_bd.git
+git clone -b develop http://gitlab.fw.landix.com.br/vrt/flx/script_origem.git
+git clone -b develop http://gitlab.fw.landix.com.br/vrt/flx/script_carga.git
+
+git clone -b develop http://gitlab.fw.landix.com.br/com/systemlandix2008.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/nucleog2.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/mwg4.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxstation.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxprocessadescargas.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxoim.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/landixsurvey.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxmail.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/systemlandix2010.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxmwscripts.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxconfigbd.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxdllinstalacao.git
+
+
+
+*** SFV
+
+git clone -b develop http://gitlab.fw.landix.com.br/vrt/sfv/ssm.git
+git clone -b develop http://gitlab.fw.landix.com.br/vrt/sfv/ldxproc.git
+git clone -b develop http://gitlab.fw.landix.com.br/vrt/sfv/script_carga.git
+git clone -b develop http://gitlab.fw.landix.com.br/vrt/sfv/script_bd.git
+
+git clone -b develop http://gitlab.fw.landix.com.br/com/systemlandix2008.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/nucleog2.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/mwg4.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxstation.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxprocessadescargas.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxoim.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/landixsurvey.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxmail.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/systemlandix2010.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxmwscripts.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxconfigbd.git
+
+
+*** BET
+
+git clone -b develop http://gitlab.fw.landix.com.br/cdm/bet/ssu.git
+git clone -b develop http://gitlab.fw.landix.com.br/cdm/bet/ssm.git
+git clone -b develop http://gitlab.fw.landix.com.br/cdm/bet/ssi.git
+
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxconfigbd.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxlogviewer.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxmwscripts.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/systemlandix2013.git
+
+*** MFK
+
+git clone -b develop http://gitlab.fw.landix.com.br/cdm/mfk/ssi/script_carga.git
+git clone -b develop http://gitlab.fw.landix.com.br/cdm/mfk/ssi/script_bd.git
+git clone -b develop http://gitlab.fw.landix.com.br/cdm/mfk/ssi/ldxproc.git
+git clone -b develop http://gitlab.fw.landix.com.br/cdm/mfk/ssm/android.git
+git clone -b develop http://gitlab.fw.landix.com.br/cdm/mfk/ssu/torre.git
+
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxconfigbd.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxlogviewer.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxmail.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxmwscripts.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/systemlandix2013.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/systemlandix2010.git
+
+
+*** SFK
+
+git clone -b develop http://gitlab.fw.landix.com.br/cdm/sfk/ssm_ssu/ssm_ssu.git
+git clone -b develop http://gitlab.fw.landix.com.br/cdm/sfk/ssi/ldxproc.git
+git clone -b develop http://gitlab.fw.landix.com.br/cdm/sfk/ssi/script_bd.git
+git clone -b develop http://gitlab.fw.landix.com.br/cdm/sfk/ssi/andinaexport.git
+git clone -b develop http://gitlab.fw.landix.com.br/cdm/sfk/ssi/tntexport.git
+git clone -b develop http://gitlab.fw.landix.com.br/cdm/sfk/ssi/script_carga.git
+
+
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxdllinstalacao.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxconfigbd.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxlocation.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/systemlandix2008.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxlogviewer.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxmwscripts.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/systemlandix2010.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/systemlandix2013.git
+
+
+*** Comum
+
+git clone -b develop http://gitlab.fw.landix.com.br/com/systemlandix2008.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/nucleog2.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/mwg4.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxstation.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxprocessadescargas.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxoim.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/landixsurvey.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/systemlandix2013.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/systemlandix2010.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxlocation.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxdllinstalacao.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxmwscripts.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxmail.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxlogviewer.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxmotorcarga.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ldxconfigbd.git
+git clone -b develop http://gitlab.fw.landix.com.br/com/ltm.git
+
+
+
+MERGE COM MSG cdm
+	
+	 --no-ff -m'MSG'

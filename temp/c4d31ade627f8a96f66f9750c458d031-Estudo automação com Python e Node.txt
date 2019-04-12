@@ -1,0 +1,66 @@
+Automatiza tarefas maçantes com python
+* Pag terminei :515;
+
+- Comentarios
+	# Comentario em Linha,tudo apos a cerquilha sera um comentario
+
+	''' Comentario multiplas linhas,tudo aqui dentro e comentario '''
+	
+- Funções
+	len() - p56
+	
+	
+-------------------------------------------------------------------------
+NodeJs
+-------------------------------------------------------------------------
+* Pag terminei :63;
+
+Obs: "...com o Node.js você desenvolve uma "aplicaçãomiddleware”, ou
+seja, além de programar as funcionalidades da sua aplicação, você também programa
+códigos de configuração de infraestrutura da sua aplicação."
+
+"require('./hello')" - importa um arquivo;
+"exports.hello" - importa um arquivo;
+
+"request.url()" - obtem a url digitada 
+
+## Construindo APIS rest Com NodeJS ##
+
+* pag : 50;
+
+-------------------------------------------------------------------------
+Python - Curso Intensivo
+-------------------------------------------------------------------------
+* Pag terminei : 167;
+
+Obs:
+"print(bicycles[0].title()) Esse exemplo gera a mesma saída do exemplo
+anterior, exceto pelo fato de 'Trek' começar com uma letra maiúscula."
+
+"print(bicycles[-1]) - -1, Python sempre devolve o último item da lista:"
+
+-------------------------------------------------------------------------
+Pl-SQL
+-------------------------------------------------------------------------
+
+
+
+-------------------------------------------------------------------------
+HTTP
+-------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
